@@ -1,2 +1,1 @@
-# adminnaja
- 
+"# adminchau" 
